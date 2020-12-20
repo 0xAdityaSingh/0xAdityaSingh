@@ -2,13 +2,13 @@
 
 ### Hi there, I'm [Aditya Singh!](https://github.com/c9addy/) 👋
 
-<img align="right" width="300px" src="https://avatars.githubusercontent.com/c9addy">
+<img align="right" width="300px" src="https://github.com/c9addy/c9addy/blob/main/assets/circle-cropped.png">
 
 <a href="https://codeforces.com/profile/Addyiwnl">
   <img align="left" alt="Codeforces" width="21px" src="https://image.winudf.com/v2/image/Y29tLlNvZnRUZWNocy5Db2RlRm9yY2VzX2ljb25fMF9jOTA3NjNhMA/icon.png?w=170&fakeurl=1" />
 </a>
 <a href="https://www.codechef.com/users/c9addy">
-  <img align="left" alt="itch.io" width="21px" src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg" />
+  <img align="left" alt="itch.io" width="21px" src="https://github.com/c9addy/c9addy/blob/main/assets/chef.jpeg" />
 </a>
 <a href="https://www.linkedin.com/in/aditya-singh-ba71a2116/">
   <img align="left" alt="LinkedIn" width="21px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
