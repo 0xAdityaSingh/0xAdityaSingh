@@ -1,6 +1,6 @@
 <div class="bg-gray-dark">
 
-### Hi there, I'm [Aditya Singh!](https://c9addy.github.io/website/) 👋
+### Hi there, I'm [Aditya Singh!](http://c9addy.surge.sh/#/) 👋
 
 <img align="right" width="300px" src="https://github.com/c9addy/c9addy/blob/main/assets/circle-cropped.png">
 
