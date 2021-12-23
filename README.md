@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/c9addy/)](https://www.linkedin.com/in/c9addy/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=social&logo=gmail&link=mailto:singh.aditya44@gmail.com)](mailto:singh.aditya44@gmail.com)
 
-`I am Aditya a Student at IIITD. I love competitive programming and mobile development. I also love playing chess in my free time. `
+`I like long walks on the beach, undecided on cold weather, wait wrong site... I'm a software engineer.`
 
 ![visitors](https://komarev.com/ghpvc/?username=c9addy)
 
