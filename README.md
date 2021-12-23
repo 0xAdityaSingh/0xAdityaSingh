@@ -34,6 +34,9 @@
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=social&logo=Raspberry-Pi&link=https://github.com/c9addy/)](https://github.com/c9addy/)
 [![Arduino](https://img.shields.io/badge/-Arduino-black?style=social&logo=Arduino&link=https://github.com/c9addy/)](https://github.com/c9addy/)
 <br />
+<br />
+<br />
+<br />
 <a href="https://gitstats.me/c9addy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c9addy&count_private=true&theme=dark&title_color=11ab3a&hide=html,c%23" />
 </a>
