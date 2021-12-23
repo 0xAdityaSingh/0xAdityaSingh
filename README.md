@@ -33,6 +33,11 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-violet?style=social&logo=mysql&link=https://github.com/c9addy/)](https://github.com/c9addy/)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=social&logo=Raspberry-Pi&link=https://github.com/c9addy/)](https://github.com/c9addy/)
 [![Arduino](https://img.shields.io/badge/-Arduino-black?style=social&logo=Arduino&link=https://github.com/c9addy/)](https://github.com/c9addy/)
-
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=c9addy&theme=dark&layout=compact" alt="languages"/>
-<img  src="https://github-readme-stats.vercel.app/api?username=c9addy&show_icons=true&theme=dark&layout=compact" alt="languages"/>
+<br />
+<a href="https://gitstats.me/c9addy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c9addy&count_private=true&theme=dark&title_color=11ab3a&hide=html,c%23" />
+</a>
+<a href="https://gitstats.me/c9addy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=c9addy&show_icons=true&count_private=true&theme=dark&title_color=11ab3a&line_height=40" alt="c9addy's github stats" />
+</a>
+<br />
