@@ -13,7 +13,7 @@
 - healthconnect.ai [link](https://github.com/c9addy/healthconnect.ai)
 - A web app that lets us know if our image consists of any Personally Identifiable Information. [link](https://www.youtube.com/watch?v=leNQMczbnTs)
 - Automatic SRA Data Processing on IIITD HPC [link](https://sites.google.com/iiitd.ac.in/sraautomation/home)
-- AnimeOWL - Stream and Watch Sub and Dub Anime - Apps on Google Play [link](https://c9addy.github.io/AnimeOWL/)
+- AnimeOWL - Stream and Watch Sub and Dub Anime [link](https://c9addy.github.io/AnimeOWL/)
 
 ## Technology I am Familiar with
 
