@@ -12,11 +12,11 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Aditya Singh"
         self.role = "Software Engineer"
-        self.coding_lang = ["CPP", "Python3", "Java", "Javascript", "Dart", "C"]
+        self.coding_lang = ["C++", "Python3", "Java", "Javascript", "Dart", "C","HTML","CSS"]
 
     def say_hi(self):
-        print(bio: "I like long walks on the beach, undecided on cold weather, wait wrong site... I'm a software engineer.")
-        print(challenge: "Currently exploring the territory of Crypto and Stocks.")
+        print("bio: I like long walks on the beach, undecided on cold weather, wait wrong site... I'm a software engineer.")
+        print("challenge: Currently exploring the territory of Crypto and Stocks.")
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
