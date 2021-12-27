@@ -2,18 +2,26 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/c9addy/)](https://www.linkedin.com/in/c9addy/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=social&logo=gmail&link=mailto:singh.aditya44@gmail.com)](mailto:singh.aditya44@gmail.com)
-```javascript
-const Aditya = {
-  pronouns: "he" | "him",
-  code: [Javascript, C++, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Flutter, Node, Hyperledger Fabric, Jest, Docker],
-  socialmedia: {
-                        LinkedIn: "https://www.linkedin.com/in/c9addy/",
-                        Instagram: "https://instagram.com/c9addy",
-                      },
- bio: "I like long walks on the beach, undecided on cold weather, wait wrong site... I'm a software engineer."                  
- challenge: "Currently exploring the territory of Crypto and Stocks."
-}
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Aditya Singh"
+        self.role = "Software Engineer"
+        self.coding_lang = ["CPP", "Python3", "Java", "Javascript", "Dart", "C"]
+
+    def say_hi(self):
+        print(bio: "I like long walks on the beach, undecided on cold weather, wait wrong site... I'm a software engineer.")
+        print(challenge: "Currently exploring the territory of Crypto and Stocks.")
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
 ```
 
 ![visitors](https://komarev.com/ghpvc/?username=c9addy)
