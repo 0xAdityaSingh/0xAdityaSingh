@@ -42,6 +42,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=c9addy&show_icons=true&count_private=true&theme=dark&title_color=11ab3a&line_height=40" alt="c9addy's github stats" />
 </a>
 <br />
-<br />
-<img  src="https://github-profile-trophy.vercel.app/?username=c9addy&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,SECRET" alt="trophy"/>
-<br />
