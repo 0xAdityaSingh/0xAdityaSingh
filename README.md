@@ -2,8 +2,19 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/c9addy/)](https://www.linkedin.com/in/c9addy/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=social&logo=gmail&link=mailto:singh.aditya44@gmail.com)](mailto:singh.aditya44@gmail.com)
-
-`I like long walks on the beach, undecided on cold weather, wait wrong site... I'm a software engineer.`
+```javascript
+const Aditya = {
+  pronouns: "he" | "him",
+  code: [Javascript, C++, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Flutter, Node, Hyperledger Fabric, Jest, Docker],
+  socialmedia: {
+                        LinkedIn: "https://www.linkedin.com/in/c9addy/",
+                        Instagram: "https://instagram.com/c9addy",
+                      },
+ bio: "I like long walks on the beach, undecided on cold weather, wait wrong site... I'm a software engineer."                  
+ challenge: "Currently exploring the territory of Crypto and Stocks."
+}
+```
 
 ![visitors](https://komarev.com/ghpvc/?username=c9addy)
 
