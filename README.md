@@ -43,5 +43,5 @@
 </a>
 <br />
 <br />
-<img  src="https://github-profile-trophy.vercel.app/?username=c9addy&theme=dark" alt="trophy"/>
+<img  src="https://github-profile-trophy.vercel.app/?username=c9addy&no-bg=true&rank=SSS,SS,S,AAA,AA,A,B,SECRET" alt="trophy"/>
 <br />
