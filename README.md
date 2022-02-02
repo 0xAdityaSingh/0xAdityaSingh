@@ -24,8 +24,6 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-![visitors](https://komarev.com/ghpvc/?username=c9addy)
-
 ## My Recent work
 
 - A Blockchain based healthcare data-sharing platform [link](https://github.com/c9addy/EHR-Hyperledger)
