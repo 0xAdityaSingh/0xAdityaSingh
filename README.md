@@ -1,7 +1,7 @@
 ## @c9addy
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/c9addy/)](https://www.linkedin.com/in/c9addy/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=social&logo=gmail&link=mailto:singh.aditya44@gmail.com)](mailto:singh.aditya44@gmail.com)
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
